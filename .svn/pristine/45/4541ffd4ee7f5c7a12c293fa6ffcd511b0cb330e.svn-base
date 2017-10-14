@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "F:/AndroidStudioProjects/LCJCSystem/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"D:\\free_Installation\\tools\\Android_studio_SDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\AndroidStudioProjects\\LCJCSystem\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-lib-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "native-lib",
+			"buildCommand" : "D:\\free_Installation\\tools\\Android_studio_SDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\AndroidStudioProjects\\LCJCSystem\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/free_Installation/tools/Android_studio_SDK/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/free_Installation/tools/Android_studio_SDK/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem D:\\free_Installation\\tools\\Android_studio_SDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\free_Installation\\tools\\Android_studio_SDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\arm64-v8a\\include -isystem D:\\free_Installation\\tools\\Android_studio_SDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem D:/free_Installation/tools/Android_studio_SDK/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "F:/AndroidStudioProjects/LCJCSystem/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "F:/AndroidStudioProjects/LCJCSystem/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "F:/AndroidStudioProjects/LCJCSystem/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so",
+			"toolchain" : "354472953"
+		}
+	},
+	"toolchains" : 
+	{
+		"354472953" : 
+		{
+			"cCompilerExecutable" : "D:/free_Installation/tools/Android_studio_SDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "D:/free_Installation/tools/Android_studio_SDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

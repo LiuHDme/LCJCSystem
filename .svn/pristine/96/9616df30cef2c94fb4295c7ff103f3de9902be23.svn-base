@@ -1,0 +1,682 @@
+[
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c6_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c6_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c7_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c7_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_line.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_line.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pointer_plate.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\pointer_plate.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c8_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c8_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c9_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c9_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c5_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c5_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c4_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c4_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c5.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c5.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\c7.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\c7.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c3_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c3_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c2_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c2_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_quit_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_quit_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qq.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\qq.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\squre_red.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\squre_red.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ellipse_red.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\ellipse_red.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_10_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_10_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_3.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_3.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\stop_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\stop_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_8_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_8_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c1_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c1_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_3_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_3_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_secede.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_secede.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ellipse.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\ellipse.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_suspend_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_suspend_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\revise.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\revise.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\top_background.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\top_background.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_history_data_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\tab_history_data_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\c10.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\c10.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\c8.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\c8.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\c5.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\c5.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_15.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_15.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pointer.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\pointer.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\frame.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\frame.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_5_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_5_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_magnetic_measurement_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_magnetic_measurement_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_13_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_13_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c4.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c4.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pane.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\pane.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\middle_line.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\middle_line.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\square.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\square.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_4.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_4.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\export_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\export_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c7.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c7.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\box.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\box.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_7.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_7.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\selected1_color.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\selected1_color.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c8.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c8.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\start_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\start_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c11_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c11_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\report_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\report_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\c4.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\c4.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c10_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c10_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\omission.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\omission.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\navigation.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\navigation.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_6.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_6.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c10.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c10.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c11.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c11.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\c11.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\c11.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_1_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_1_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c2.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c2.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\menu_icon.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\triangle.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\triangle.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_suspend_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_suspend_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_begin.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_begin.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\title.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_14.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_14.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\popup.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_2_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_2_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_data_measure_pressed.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\tab_data_measure_pressed.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\export_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\export_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_sure.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_sure.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_11.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_11.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_15_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_15_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\manu.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\manu.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mail.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\mail.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_quit.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_quit.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\c1.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\c1.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_4_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_4_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c13.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c13.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_10.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_10.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_last.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_last.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\clean_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\clean_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_last_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_last_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_9.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_9.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\start_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\start_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c14.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c14.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_an.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\bg_an.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_history_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_history_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\bg.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_history_data_pressed.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\tab_history_data_pressed.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_big.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\popup_big.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\menu_back.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\menu_back.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_finish.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_finish.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\back_an.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\back_an.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_14_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_14_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_data_measure_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\tab_data_measure_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\c4_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\c4_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ban.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\ban.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\c5_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\c5_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\c6_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\c6_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\axis_x_y.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\axis_x_y.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\back.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_finish_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_finish_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\c7_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\c7_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\c2.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\c2.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c15_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c15_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_next_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_next_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\stop_bit.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\stop_bit.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\day.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\day.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\revise_an.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\revise_an.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_begin_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_begin_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c1.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c1.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sure.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\sure.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c12_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c12_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_9_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_9_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c14_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c14_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c13_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c13_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\choose.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\choose.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\report_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\report_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_1.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_1.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\all_channel_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\all_channel_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_6_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_6_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\c12.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\c12.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\baude_rate.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\baude_rate.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_secede_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_secede_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_13.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_13.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_all.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_all.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\select_box.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\select_box.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_history_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_history_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_12_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_12_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\frame_big.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\frame_big.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wechat.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\wechat.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_12.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_12.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\circle.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\circle.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c12.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c12.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\choose_an.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\choose_an.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\c3_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\c3_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\select_box_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\select_box_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c6.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c6.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_magnetic_measurement_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_magnetic_measurement_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\c2_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\c2_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_11_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_11_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c15.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c15.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c9.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c9.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\month.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\month.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_2.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_2.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\delete_an.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\delete_an.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\strigon1.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\strigon1.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_5.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_5.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\c1_normal.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\c1_normal.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pane_select.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\pane_select.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sample_time.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\sample_time.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_8.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_8.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_c3.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\b_c3.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\clean_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\clean_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\c6.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\c6.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\c9.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\c9.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\stop_select.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\stop_select.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\channel_7_selected.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\channel_7_selected.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\date_frame.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\date_frame.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\all_channel.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\all_channel.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\delete.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\delete.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\returnkey_white.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\returnkey_white.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_next.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_next.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\year.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\year.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\strigon.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\strigon.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo_topleft.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\logo_topleft.png"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\c3.png",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\drawable-xhdpi\\c3.png"
+    }
+]

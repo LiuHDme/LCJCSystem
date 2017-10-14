@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\YCQ\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.2\5d4eb08a326bdbd7fbbddc769666898c9936b282\MPAndroidChart-v3.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
+        <dex dex="E:\Andriod\Project\Andriod_app\LCJCSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.2_0cb62b6c92bfdfefeff436a830a6981b1f9fb66e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YCQ\.android\build-cache\7e339452802220b5dd14f45ec5dd0dc05aeaac34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Andriod\Project\Andriod_app\LCJCSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57932d206b068d8a15961a6ef828f5b307d2b9d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Andriod\Project\Andriod_app\LCJCSystem\app\libs\poi-scratchpad-3.9-20121203.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="65960af147366ff788d95fe3940d5050be5440bc">
+        <dex dex="E:\Andriod\Project\Andriod_app\LCJCSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\poi-scratchpad-3.9-20121203_7826f842dbc0f88ccbc16038d495201a8f1ba8dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Andriod\Project\Andriod_app\LCJCSystem\app\libs\poi-3.9-20121203.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5d5e41354e88322e4bc590b31f3d2d1d52b3e6ac">
+        <dex dex="E:\Andriod\Project\Andriod_app\LCJCSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\poi-3.9-20121203_3c0ed8b0e308e56aea7d3a549e10c2536adee74e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Andriod\Project\Andriod_app\LCJCSystem\app\src\main\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="E:\Andriod\Project\Andriod_app\LCJCSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.1.0_e3eb6ee4fdd7662503bf411ee49722023d17e844\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Andriod\Project\Andriod_app\LCJCSystem\app\src\main\libs\gsl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9aa1c9407bac1bbf795f0cc27c460ae1243d5bd">
+        <dex dex="E:\Andriod\Project\Andriod_app\LCJCSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\gsl_ef438cc6612aeaf379ab14feb09056cea8cc46ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Andriod\Project\Andriod_app\LCJCSystem\app\src\main\libs\javacpp.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="565d9ff1660f5fe2b406c97ba2894b446ae26a97">
+        <dex dex="E:\Andriod\Project\Andriod_app\LCJCSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\javacpp_62ccb36e9644b312d1c55a25d18370df83a36859\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Andriod\Project\Andriod_app\LCJCSystem\app\src\main\libs\j2xx.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c9d8dd437e722f60d61bd88ceb779b7d71f67230">
+        <dex dex="E:\Andriod\Project\Andriod_app\LCJCSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\j2xx_7fe507710bae7de985315cf30e77067d5bc34538\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidSdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Andriod\Project\Andriod_app\LCJCSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_5f66a4f11b80aa199f7be9e633b521a3e16c9cf8\classes.dex" />
+    </item>
+
+</items>

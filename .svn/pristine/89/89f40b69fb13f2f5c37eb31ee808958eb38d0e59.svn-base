@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\dialog_send_report.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\mainActivity\\layout-sw600dp\\dialog_send_report.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\fragment_historydata.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\fragment\\layout-sw600dp\\fragment_historydata.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\fragment_datameasure.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\fragment\\layout-sw600dp\\fragment_datameasure.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_mian_fragment.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\mainActivity\\layout-sw600dp\\activity_mian_fragment.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_mian_tab.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\mainActivity\\layout-sw600dp\\activity_mian_tab.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_main_top.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\mainActivity\\layout-sw600dp\\activity_main_top.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_main_bottom.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\mainActivity\\layout-sw600dp\\activity_main_bottom.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\second_fragment_datameasure.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\fragment\\layout-sw600dp\\second_fragment_datameasure.xml"
+    }
+]

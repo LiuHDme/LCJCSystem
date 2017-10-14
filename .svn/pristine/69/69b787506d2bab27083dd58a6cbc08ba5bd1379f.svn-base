@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

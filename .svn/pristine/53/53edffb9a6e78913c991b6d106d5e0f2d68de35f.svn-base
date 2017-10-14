@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datarecordlist1.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\fragment\\layout\\datarecordlist1.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_view.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\fragment\\layout\\dialog_view.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_bottom.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\mainActivity\\layout\\activity_main_bottom.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_date_spinner_item.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\fragment\\layout\\simple_date_spinner_item.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scan.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\menu\\layout\\activity_scan.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_channel_dialog.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\menu\\layout\\select_channel_dialog.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_defectlevel.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\menu\\layout\\select_defectlevel.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_spinner_item.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\fragment\\layout\\date_spinner_item.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_spinner.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\fragment\\layout\\date_spinner.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_send_report.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\mainActivity\\layout\\dialog_send_report.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_top.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\mainActivity\\layout\\activity_main_top.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\html.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\fragment\\layout\\html.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list1_item_tag.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\fragment\\layout\\list1_item_tag.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_historydata.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\fragment\\layout\\fragment_historydata.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_to_delete.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\menu\\layout\\confirm_to_delete.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bigchart.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\fragment\\layout\\fragment_bigchart.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\system_parameter.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\menu\\layout\\system_parameter.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\menu\\layout\\main_menu.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mian_fragment.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\mainActivity\\layout\\activity_mian_fragment.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_calibration.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\menu\\layout\\device_calibration.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_datameasure.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\fragment\\layout\\fragment_datameasure.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\second_fragment_datameasure.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\fragment\\layout\\second_fragment_datameasure.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mian_tab.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\mainActivity\\layout\\activity_mian_tab.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\standard_magnetic_calibration.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\menu\\layout\\standard_magnetic_calibration.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\menu\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_sysytem.xml",
+        "source": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\src\\main\\res\\layouts\\menu\\layout\\about_sysytem.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    }
+]

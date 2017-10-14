@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Andriod\\Project\\Andriod_app\\LCJCSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\YCQ\\.android\\build-cache\\15fa606c0e933576100f7c23275687683bb7f41e\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
