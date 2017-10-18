@@ -190,8 +190,11 @@ public class MainActivity extends FragmentActivity implements OnClickListener {
                     m_vFragmentDataMeasure.getContext(),
                     ThreadParameter.getInstance().xList,
                     ThreadParameter.getInstance().yList,
-                    ThreadParameter.getInstance().flawValue);
-            m_vFragmentDataMeasure.addToBigScanChart();
+                    ThreadParameter.getInstance().flawValue,
+                    true);
+            m_vFragmentDataMeasure.scanChart.removeAllViews();
+            m_vFragmentDataMeasure.scanChart.addView(m_vFragmentDataMeasure.scanView);
+            m_vFragmentDataMeasure.scanView.setClickable(true);
         }
     };
 
@@ -199,7 +202,9 @@ public class MainActivity extends FragmentActivity implements OnClickListener {
     Runnable cleanScanChart = new Runnable() {
         @Override
         public void run() {
-            m_vFragmentDataMeasure.cleanScanningChart();
+            m_vFragmentDataMeasure.scanView = new ScanningService(m_vFragmentDataMeasure.getContext(), false);
+            m_vFragmentDataMeasure.scanChart.removeAllViews();
+            m_vFragmentDataMeasure.scanChart.addView(m_vFragmentDataMeasure.scanView);
         }
     };
 
@@ -590,14 +595,14 @@ public class MainActivity extends FragmentActivity implements OnClickListener {
             }
         });
 
-        // 清屏按钮的点击事件：只有点击停止之后清屏按钮才变为可点
+        //清屏按钮的点击事件：只有点击停止之后清屏按钮才变为可点
         btnClean.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 btnClean.setImageResource(R.drawable.clean_selected);
                 btnClean.setEnabled(false);
                 btnStop.setImageResource(R.drawable.stop_normal);
-                clearAllChart(); // 清空图表
+                clearAllChart();//清空图表
             }
 
         });
